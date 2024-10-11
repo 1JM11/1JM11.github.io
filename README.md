@@ -1,4 +1,4 @@
-div{align-center}
+div{align:center;}
 <div>
 ceci est mon <em>portfolio</em> de codage dessus github
 <br>Tu peux voir mes défis complété de KhanAcademy
