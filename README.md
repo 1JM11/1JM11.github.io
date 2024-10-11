@@ -1,5 +1,5 @@
 <head>
- .readme{background-color: white;}
+ .readme {background-color: white;}
 </head>
 <div class="readme">
 ceci est mon <em>portfolio</em> de codage dessus github
