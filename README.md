@@ -1,6 +1,8 @@
-<head>
- .readme {background-color: white;}
-</head>
+<html>
+ <head>
+  .readme {background-color: white;}
+ </head>
+</html>
 <div class="readme">
 ceci est mon <em>portfolio</em> de codage dessus github
 <br>Tu peux voir mes défis complété de KhanAcademy
