@@ -6,4 +6,5 @@ h1{font-family: Jazz LET, fantasy;
   font-weight: 100;}
 div{align: center;
    border-color: white;
-   border: 0.5em}
+   border: 0.5em;
+   padding: 1em;}
