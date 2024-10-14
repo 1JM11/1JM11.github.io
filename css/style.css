@@ -7,6 +7,5 @@ h1{font-family: Jazz LET, fantasy;
   padding:0.5em}
 body{padding:0.5em}
 div{align: center;
-   border-color: white;
-   border-size: 0.5em;
+   border: 0.5em solid white;
    padding: 1em;}
