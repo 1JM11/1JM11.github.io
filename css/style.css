@@ -12,3 +12,9 @@ body{padding:0.5em}
 div{align: center;
    border: 0.5em solid white;
    padding: 1em;}
+.Retourne{text-align: center;
+          padding: 3em;
+          border: 0.2em solid white;
+          width: 4em;
+          height: 4em;
+          border-radius: 100%;}
