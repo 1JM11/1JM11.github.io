@@ -1,16 +1,16 @@
-html{color: white;
-     font-family: URW Gothic L, verdana, sans serif;}
+html{color: white;}
 body{background-image: url("../images/Portfolio arrière plan.jpg");
      background-position-x: center;
      background-position-y: center;
-     background-color: #74C1E2;}
+     background-color: #74C1E2;
+     font-family: URW Gothic L, verdana, sans serif;}
 h1{font-family: Jazz LET, fantasy;
-  font-weight: 100;
-  font-size: 2em;
-  padding:0.2em}
+   font-weight: 100;
+   font-size: 2em;
+   padding:0.2em}
 div{align: center;
-   border: 0.5em solid white;
-   padding: 1em;}
+    border: 0.5em solid white;
+    padding: 1em;}
 .retourne{text-align: center;
           padding: 3em;
           border: 1em solid white;
