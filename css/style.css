@@ -1,20 +1,19 @@
-
-body{background-image: url("../images/Portfolio arrière plan.jpg");
-     
-     background-color: #74C1E2;}
 html{color: white;
-font-family: URW Gothic L, verdana, sans serif;}
+     font-family: URW Gothic L, verdana, sans serif;}
+body{background-image: url("../images/Portfolio arrière plan.jpg");
+     background-position-x: center;
+     background-position-y: center;
+     background-color: #74C1E2;}
 h1{font-family: Jazz LET, fantasy;
   font-weight: 100;
-  font-size: 5em;
-  padding:0.5em}
-body{padding:0.5em}
+  font-size: 2em;
+  padding:0.2em}
 div{align: center;
    border: 0.5em solid white;
    padding: 1em;}
 .retourne{text-align: center;
           padding: 3em;
-          border: 0.2em solid white;
-          width: 4em;
-          height: 4em;
+          border: 1em solid white;
+          width: 2em;
+          height: 2em;
           border-radius: 100%;}
